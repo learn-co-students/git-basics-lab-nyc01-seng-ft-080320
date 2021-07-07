@@ -1,4 +1,4 @@
-# Git Basics Lab
+lea# Git Basics Lab
 
 ## Learning Goals
 
